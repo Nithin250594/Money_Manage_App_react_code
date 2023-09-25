@@ -1,0 +1,36 @@
+/* Write your CSS here */
+.table-inputs {
+  color: #7e858e;
+  font-size: 16px;
+  font-family: 'Roboto';
+  font-weight: 300;
+  width: 30%;
+}
+
+.delete-btn {
+  border-width: 0px;
+  background-color: transparent;
+  margin-right: 100px;
+}
+
+.delete-image {
+  width: 25px;
+}
+
+.transaction-history-lists {
+  border-bottom: 1px #cbd5e1 solid;
+  border-right: 1px #cbd5e1 solid;
+  border-left: 1px #cbd5e1 solid;
+  padding-left: 20px;
+  padding-right: 20px;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+}
+
+.delete-container {
+  width: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
